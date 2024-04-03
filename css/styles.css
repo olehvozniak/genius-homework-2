@@ -90,7 +90,7 @@ address {
 }
 
 .nowrap {
-    text-wrap: nowrap;
+    white-space: nowrap;
 }
 
 /* Buttons */
@@ -159,7 +159,7 @@ address {
     display: flex;
     align-items: center;
     gap: 56px;
-    text-wrap: nowrap;
+    white-space: nowrap;
     justify-content: center;
 }
 
