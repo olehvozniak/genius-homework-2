@@ -183,8 +183,8 @@ main {
      rgba(255, 255, 255, 0.193204) 58.65%, rgba(255, 255, 255, 0) 72.78%),
      url("../images/hero-section-background.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: right top;
+    background-size: 1440px auto;
+    background-position: center;
     position: relative;
     padding: 150px 100px;
     -webkit-mask-repeat: no-repeat;
